@@ -126,20 +126,21 @@ a:link {
     border-style: ridge;
     border-radius: 15px;
     border-width: 5px;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .upto {
     grid-area: header;
     text-align: center;
     padding: 1px;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 #coding {
     text-align: left;
     margin-left: 1px;
     padding: 20px;
+    font-size: 15px;
 
 }
 
@@ -147,22 +148,26 @@ a:link {
     grid-area: menu;
     text-align: left;
     padding: 20px;
+    font-size: 15px;
 }
 
 .decor {
     grid-area: main;
     text-align: left;
     padding: 20px;
+    font-size: 15px;
 }
 
 .scripts {
     grid-area: right;
     text-align: left;
     padding: 20px;
+    font-size: 15px;
 }
 
 .moto {
     grid-area: footer;
     text-align: left;
     padding: 20px;
+    font-size: 15px;
 }
